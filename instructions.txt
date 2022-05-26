@@ -1,0 +1,2 @@
+truffle develop <-- starts the local blockchain
+2. migrate 
